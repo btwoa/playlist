@@ -1,0 +1,21 @@
+{
+  "name": "playlist",
+  "short_name": "playlist",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+      {
+        "src": "https://ovo.btwoa.com/img/type/favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://ovo.btwoa.com/img/type/favicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+}
