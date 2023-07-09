@@ -65,7 +65,7 @@ body {
   rotate: 0;
   background-size: 40%;
   transition: 0.6s;
-  background-image: url(/img/cover.webp);
+  background-image: url(https://ovo.btwoa.com/img/cover/headercover.jpg);
 }
 
 #music_bg::before {
@@ -462,7 +462,7 @@ body .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon.apla
     width: 30%;
   }
   #heoMusic-page ol > li.aplayer-list-light {
-    background: #33a673;
+    background: #dbbdfd;
     padding: 5px 20px;
     border-radius: 10px;
     height: 52px;
